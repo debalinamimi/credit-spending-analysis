@@ -1,4 +1,4 @@
-`Credit-Card-Analysis-Using-Power-BI`
+**Credit-Card-Analysis-Using-Power-BI**
 
 Dashboard Link :
 Project Objectives:
